@@ -1,8 +1,0 @@
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Greetings\Greetings\bin\Debug\Greetings.exe.config
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Greetings\Greetings\bin\Debug\Greetings.exe
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Greetings\Greetings\bin\Debug\Greetings.pdb
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Greetings\Greetings\obj\Debug\Greetings.csproj.AssemblyReference.cache
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Greetings\Greetings\obj\Debug\Greetings.csproj.SuggestedBindingRedirects.cache
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Greetings\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Greetings\Greetings\obj\Debug\Greetings.exe
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Greetings\Greetings\obj\Debug\Greetings.pdb
