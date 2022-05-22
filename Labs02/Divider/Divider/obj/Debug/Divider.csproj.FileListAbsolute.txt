@@ -1,8 +1,0 @@
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Divider\Divider\bin\Debug\Divider.exe.config
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Divider\Divider\bin\Debug\Divider.exe
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Divider\Divider\bin\Debug\Divider.pdb
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Divider\Divider\obj\Debug\Divider.csproj.AssemblyReference.cache
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Divider\Divider\obj\Debug\Divider.csproj.SuggestedBindingRedirects.cache
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Divider\Divider\obj\Debug\Divider.csproj.CoreCompileInputs.cache
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Divider\Divider\obj\Debug\Divider.exe
-C:\Users\Perep\source\repos\installfolder\Labs\Labs02\Divider\Divider\obj\Debug\Divider.pdb
