@@ -1,0 +1,8 @@
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\Whatday1\Whatday1\obj\Debug\Whatday1.csproj.AssemblyReference.cache
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\Whatday1\Whatday1\obj\Debug\Whatday1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\Whatday1\Whatday1\obj\Debug\Whatday1.csproj.CoreCompileInputs.cache
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\Whatday1\Whatday1\bin\Debug\Whatday1.exe.config
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\Whatday1\Whatday1\bin\Debug\Whatday1.exe
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\Whatday1\Whatday1\bin\Debug\Whatday1.pdb
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\Whatday1\Whatday1\obj\Debug\Whatday1.exe
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\Whatday1\Whatday1\obj\Debug\Whatday1.pdb
