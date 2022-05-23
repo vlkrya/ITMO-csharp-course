@@ -1,0 +1,8 @@
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\WhatDay1.sln\WhatDay1.sln\bin\Debug\WhatDay1.sln.exe.config
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\WhatDay1.sln\WhatDay1.sln\bin\Debug\WhatDay1.sln.exe
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\WhatDay1.sln\WhatDay1.sln\bin\Debug\WhatDay1.sln.pdb
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\WhatDay1.sln\WhatDay1.sln\obj\Debug\WhatDay1.sln.csproj.AssemblyReference.cache
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\WhatDay1.sln\WhatDay1.sln\obj\Debug\WhatDay1.sln.csproj.SuggestedBindingRedirects.cache
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\WhatDay1.sln\WhatDay1.sln\obj\Debug\WhatDay1.sln.csproj.CoreCompileInputs.cache
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\WhatDay1.sln\WhatDay1.sln\obj\Debug\WhatDay1.sln.exe
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay1\WhatDay1.sln\WhatDay1.sln\obj\Debug\WhatDay1.sln.pdb
