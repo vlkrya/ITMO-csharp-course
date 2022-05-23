@@ -1,0 +1,15 @@
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\bin\Debug\net6.0\Utils.sln.exe
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\bin\Debug\net6.0\Utils.sln.deps.json
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\bin\Debug\net6.0\Utils.sln.runtimeconfig.json
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\bin\Debug\net6.0\Utils.sln.dll
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\bin\Debug\net6.0\Utils.sln.pdb
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\obj\Debug\net6.0\Utils.sln.csproj.AssemblyReference.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\obj\Debug\net6.0\Utils.sln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\obj\Debug\net6.0\Utils.sln.AssemblyInfoInputs.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\obj\Debug\net6.0\Utils.sln.AssemblyInfo.cs
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\obj\Debug\net6.0\Utils.sln.csproj.CoreCompileInputs.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\obj\Debug\net6.0\Utils.sln.dll
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\obj\Debug\net6.0\refint\Utils.sln.dll
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\obj\Debug\net6.0\Utils.sln.pdb
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\obj\Debug\net6.0\Utils.sln.genruntimeconfig.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab05\Starter\Utility\Utils.sln\Utils.sln\obj\Debug\net6.0\ref\Utils.sln.dll
