@@ -1,0 +1,15 @@
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\obj\Debug\net6.0\WhatDay3.sln.csproj.AssemblyReference.cache
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\obj\Debug\net6.0\WhatDay3.sln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\obj\Debug\net6.0\WhatDay3.sln.AssemblyInfoInputs.cache
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\obj\Debug\net6.0\WhatDay3.sln.AssemblyInfo.cs
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\obj\Debug\net6.0\WhatDay3.sln.csproj.CoreCompileInputs.cache
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\bin\Debug\net6.0\WhatDay3.sln.exe
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\bin\Debug\net6.0\WhatDay3.sln.deps.json
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\bin\Debug\net6.0\WhatDay3.sln.runtimeconfig.json
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\bin\Debug\net6.0\WhatDay3.sln.dll
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\bin\Debug\net6.0\WhatDay3.sln.pdb
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\obj\Debug\net6.0\WhatDay3.sln.dll
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\obj\Debug\net6.0\refint\WhatDay3.sln.dll
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\obj\Debug\net6.0\WhatDay3.sln.pdb
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\obj\Debug\net6.0\WhatDay3.sln.genruntimeconfig.cache
+C:\Users\Perep\source\repos\installfolder\Labs\Labs04\Starter\WhatDay3\WhatDay3.sln\WhatDay3.sln\obj\Debug\net6.0\ref\WhatDay3.sln.dll
