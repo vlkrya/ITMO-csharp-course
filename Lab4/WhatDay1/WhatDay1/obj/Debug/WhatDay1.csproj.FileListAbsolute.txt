@@ -1,0 +1,8 @@
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\WhatDay1\WhatDay1\bin\Debug\WhatDay1.exe.config
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\WhatDay1\WhatDay1\bin\Debug\WhatDay1.exe
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\WhatDay1\WhatDay1\bin\Debug\WhatDay1.pdb
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\WhatDay1\WhatDay1\obj\Debug\WhatDay1.csproj.AssemblyReference.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\WhatDay1\WhatDay1\obj\Debug\WhatDay1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\WhatDay1\WhatDay1\obj\Debug\WhatDay1.csproj.CoreCompileInputs.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\WhatDay1\WhatDay1\obj\Debug\WhatDay1.exe
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\WhatDay1\WhatDay1\obj\Debug\WhatDay1.pdb
