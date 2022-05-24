@@ -1,0 +1,8 @@
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.SuggestedBindingRedirects.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
