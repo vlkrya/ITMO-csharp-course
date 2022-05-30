@@ -1,0 +1,8 @@
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab5\Utility\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab5\Utility\Utility\obj\Debug\Utility.csproj.SuggestedBindingRedirects.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab5\Utility\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab5\Utility\Utility\bin\Debug\Utility.exe.config
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab5\Utility\Utility\bin\Debug\Utility.exe
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab5\Utility\Utility\bin\Debug\Utility.pdb
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab5\Utility\Utility\obj\Debug\Utility.exe
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab5\Utility\Utility\obj\Debug\Utility.pdb
