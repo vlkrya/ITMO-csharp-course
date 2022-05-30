@@ -1,8 +1,0 @@
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\StructType\StructType\bin\Debug\StructType.exe.config
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\StructType\StructType\bin\Debug\StructType.exe
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\StructType\StructType\bin\Debug\StructType.pdb
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\StructType\StructType\obj\Debug\StructType.csproj.AssemblyReference.cache
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\StructType\StructType\obj\Debug\StructType.csproj.SuggestedBindingRedirects.cache
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\StructType\StructType\obj\Debug\StructType.csproj.CoreCompileInputs.cache
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\StructType\StructType\obj\Debug\StructType.exe
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab3\StructType\StructType\obj\Debug\StructType.pdb
