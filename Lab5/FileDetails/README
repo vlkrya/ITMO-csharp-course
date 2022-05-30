@@ -1,1 +1,0 @@
-The contents of the text file will be read into an array of characters, and then it will be iterated over the entire array to count the number of vowels and consonants. As a result, information about the total number of characters, vowels, consonants and lines will be displayed on the console.
