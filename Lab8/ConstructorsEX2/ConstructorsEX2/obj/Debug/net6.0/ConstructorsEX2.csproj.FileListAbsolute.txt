@@ -1,5 +1,0 @@
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab8\ConstructorsEX2\ConstructorsEX2\obj\Debug\net6.0\ConstructorsEX2.csproj.AssemblyReference.cache
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab8\ConstructorsEX2\ConstructorsEX2\obj\Debug\net6.0\ConstructorsEX2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab8\ConstructorsEX2\ConstructorsEX2\obj\Debug\net6.0\ConstructorsEX2.AssemblyInfoInputs.cache
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab8\ConstructorsEX2\ConstructorsEX2\obj\Debug\net6.0\ConstructorsEX2.AssemblyInfo.cs
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab8\ConstructorsEX2\ConstructorsEX2\obj\Debug\net6.0\ConstructorsEX2.csproj.CoreCompileInputs.cache
