@@ -1,0 +1,8 @@
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Bank\Bank\obj\Debug\Bank.pdb
