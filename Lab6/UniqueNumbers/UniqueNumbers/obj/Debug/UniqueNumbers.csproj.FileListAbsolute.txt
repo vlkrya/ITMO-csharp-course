@@ -1,8 +1,0 @@
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab6\UniqueNumbers\UniqueNumbers\bin\Debug\UniqueNumbers.exe.config
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab6\UniqueNumbers\UniqueNumbers\bin\Debug\UniqueNumbers.exe
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab6\UniqueNumbers\UniqueNumbers\bin\Debug\UniqueNumbers.pdb
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab6\UniqueNumbers\UniqueNumbers\obj\Debug\UniqueNumbers.csproj.AssemblyReference.cache
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab6\UniqueNumbers\UniqueNumbers\obj\Debug\UniqueNumbers.csproj.SuggestedBindingRedirects.cache
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab6\UniqueNumbers\UniqueNumbers\obj\Debug\UniqueNumbers.csproj.CoreCompileInputs.cache
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab6\UniqueNumbers\UniqueNumbers\obj\Debug\UniqueNumbers.exe
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab6\UniqueNumbers\UniqueNumbers\obj\Debug\UniqueNumbers.pdb
