@@ -1,0 +1,8 @@
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Utils\Utils\bin\Debug\Utils.exe.config
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Utils\Utils\bin\Debug\Utils.exe
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Utils\Utils\bin\Debug\Utils.pdb
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Utils\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Utils\Utils\obj\Debug\Utils.csproj.SuggestedBindingRedirects.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Utils\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Utils\Utils\obj\Debug\Utils.exe
+C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab7\Utils\Utils\obj\Debug\Utils.pdb
