@@ -1,8 +1,0 @@
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab8\Constructors\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab8\Constructors\Constructors\obj\Debug\Constructors.csproj.SuggestedBindingRedirects.cache
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab8\Constructors\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab8\Constructors\Constructors\bin\Debug\Constructors.exe.config
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab8\Constructors\Constructors\bin\Debug\Constructors.exe
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab8\Constructors\Constructors\bin\Debug\Constructors.pdb
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab8\Constructors\Constructors\obj\Debug\Constructors.exe
-C:\Users\Perep\source\repos\vlkrya\ITMO-csharp\Labs\Lab8\Constructors\Constructors\obj\Debug\Constructors.pdb
