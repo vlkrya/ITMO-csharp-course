@@ -1,0 +1,6 @@
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab11\EXERCISE2\BANK\obj\Debug\Bank.csprojAssemblyReference.cache
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab11\EXERCISE2\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab11\EXERCISE2\BANK\bin\Debug\Bank.exe
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab11\EXERCISE2\BANK\bin\Debug\Bank.pdb
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab11\EXERCISE2\BANK\obj\Debug\Bank.exe
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab11\EXERCISE2\BANK\obj\Debug\Bank.pdb
